@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documentos/GitHub/mapa_leaflet"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../templates"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proyectos",
+		"liveServer.settings.port": 5501
+	}
+}
