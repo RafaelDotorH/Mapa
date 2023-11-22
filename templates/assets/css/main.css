@@ -1,0 +1,16 @@
+@import url("https://unpkg.com/leaflet@1.7.1/dist/leaflet.css");
+#map {
+  margin: 0 auto;
+  width: 100%;
+  min-height: 400px;
+  max-height: 500px;
+  height: 100%;
+}
+
+.leaflet-popup-content img, .leaflet-tooltip-pane img{
+  width: 100%;
+}
+
+.leaflet-control-layers-base, .leaflet-control-layers-overlays {
+  text-align: left;
+}
